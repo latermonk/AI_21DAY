@@ -6,4 +6,4 @@ https://activity.huaweicloud.com/21days_ai/index.html?utm_source=yunshequ&utm_me
 
 
 
-![](D:\VIP\Github\AI_21DAY\img\Content.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/img/Content.png)
