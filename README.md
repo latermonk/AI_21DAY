@@ -14,5 +14,7 @@ https://activity.huaweicloud.com/21days_ai/index.html?utm_source=yunshequ&utm_me
 
 
 
-##  内容
+##  论坛
+https://bbs.huaweicloud.com/forum/forum.php?mod=viewthread&tid=11357&page=1#pid36555
+
 
