@@ -16,4 +16,3 @@ https://activity.huaweicloud.com/21days_ai/index.html?utm_source=yunshequ&utm_me
 
 ##  内容
 
-![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/img/Long.jpg)
