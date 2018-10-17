@@ -37,5 +37,5 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 
 
 ![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/01.png)
-![]https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/02.png
-![]https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/03.png
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/02.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/03.png)
