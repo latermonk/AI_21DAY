@@ -35,6 +35,7 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 
 截图3：在MLS实例页进行截图
 
-https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/01.png
-https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/02.png
-https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/03.png
+
+![]https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/01.png
+![]https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/02.png
+![]https://raw.githubusercontent.com/latermonk/AI_21DAY/master/01/PNG/03.png
