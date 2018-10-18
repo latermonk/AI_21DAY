@@ -29,7 +29,7 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 
 ## API测试
 
-https://face.cn-north-1.myhuaweicloud.com/v1/7c255c12c74c46bfaa8d59cc468ae434/face-detect
+https://face.cn-north-1.myhuaweicloud.com/v1/*****PROJECT_ID_HERE*****/face-detect
 
 
 ## 获取X-Auth-Token
