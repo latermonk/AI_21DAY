@@ -20,6 +20,8 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 ## 打卡任务：  
 1、人脸识别服务申请
 参考节的申请服务流程进入人脸识别控制台，然后确认申请服务的状态，人脸检测、人脸比对、人脸搜索服状态为“已开通”
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/02/PNG/01.png)
   
 2、调用服务查询API
 参照2.2节的API介绍，调用服务查询API接口，查看当前用户服务开通状态，要求人脸检测（detect_service），人脸比对（compare_service），人脸搜索（search_service）三个服务为开通状态：
@@ -27,7 +29,7 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 
 
 
-## API测试
+## API测试地址
 
 https://face.cn-north-1.myhuaweicloud.com/v1/*****PROJECT_ID_HERE*****/face-detect
 
@@ -40,7 +42,10 @@ https://support.huaweicloud.com/api-face/face_02_0004.html
 
 
 
+
+
 ## 通过API接口查看3个服务是否开通
 
 https://face.cn-north-1.myhuaweicloud.com/v1/PROJECT_ID/subscribe
 
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/02/PNG/02.png)
