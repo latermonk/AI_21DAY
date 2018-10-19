@@ -1,0 +1,198 @@
+{
+	"info": {
+		"_postman_id": "5d241cde-d503-4f84-b664-1340e44e6829",
+		"name": "frs-day2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "创建人脸库",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "X-Auth-Token",
+						"value": "MIITpwYJKoZIhvcNAQcCoIITmDCCE5..."
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"face_set_name\": \"test\", \n  \"face_set_capacity\": 100000\n}"
+				},
+				"url": {
+					"raw": "https://face.cn-north-1.myhuaweicloud.com/v1/用户的projectid/face-sets",
+					"protocol": "https",
+					"host": [
+						"face",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v1",
+						"用户的projectid",
+						"face-sets"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "添加人脸",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "X-Auth-Token",
+						"value": "MIITpwYJKoZIhvcNAQcCoIITmDCCE5QCA..."
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image_file",
+							"description": "",
+							"type": "file"
+						},
+						{
+							"key": "external_image_id",
+							"value": "testid",
+							"description": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://face.cn-north-1.myhuaweicloud.com/v1/用户的projectid/face-sets/创建的人脸库名称/faces",
+					"protocol": "https",
+					"host": [
+						"face",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v1",
+						"用户的projectid",
+						"face-sets",
+						"创建的人脸库名称",
+						"faces"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "人脸搜索",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "X-Auth-Token",
+						"value": "MIITpwYJKoZIhvcNAQcCoIITmDCCE5..."
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image_file",
+							"description": "",
+							"type": "file"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://face.cn-north-1.myhuaweicloud.com/v1/用户的projectid/face-sets/创建的人脸库名称/search",
+					"protocol": "https",
+					"host": [
+						"face",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v1",
+						"用户的projectid",
+						"face-sets",
+						"创建的人脸库名称",
+						"search"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "删除人脸库",
+			"request": {
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "X-Auth-Token",
+						"value": "MIITpwYJKoZIhvcNAQcCoIITmDCCE5QCAQ..."
+					}
+				],
+				"body": {},
+				"url": {
+					"raw": "https://face.cn-north-1.myhuaweicloud.com/v1/用户的projectid/face-sets/创建的人脸库名称",
+					"protocol": "https",
+					"host": [
+						"face",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v1",
+						"用户的projectid",
+						"face-sets",
+						"创建的人脸库名称"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "查询所有人脸库信息",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "X-Auth-Token",
+						"value": "MIITpwYJKoZIhvcNAQcCoIITmDCCE5Q..."
+					}
+				],
+				"body": {},
+				"url": {
+					"raw": "https://face.cn-north-1.myhuaweicloud.com/v1/用户的projectid/face-sets",
+					"protocol": "https",
+					"host": [
+						"face",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v1",
+						"用户的projectid",
+						"face-sets"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
