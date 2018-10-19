@@ -29,15 +29,28 @@ https://m.qlchat.com/wechat/page/topic-intro?topicId=2000002265043465&pro_cl=lin
 https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self-paced/courseware/62138fe9382a45e38ea43910651785f9/2d8835f3031a4895a5a2b1c88c8480bb/
 
 打卡任务：   
-1、人脸搜索   
-使用人脸搜索API，需要先创建人脸库，在已有的人脸库中查询与目标人脸相似的一张或多张人脸，并得到相应的置信度。可参考如下步骤完成：   
+1、人脸搜索      
+
+使用人脸搜索API，需要先创建人脸库，在已有的人脸库中查询与目标人脸相似的一张或多张人脸，并得到相应的置信度。可参考如下步骤完成：      
+
+
 1、 创建自己的人脸集，具体操作参看2.2.3节；   
 2、 向人脸库中添加人脸图片1、图片2，具体操作参看2.2.4节；   
 3、 上传图片3，在第一步创建的人脸库中查询与目标人脸相似的一张人脸，并得到响应的置信度。   
 
-2、删除人脸库并查询所有人脸库   
+2、删除人脸库并查询所有人脸库     
+
+
 1、 使用删除人脸库API，删除人脸库及其中所有的人脸，得到删除成功的响应信息；   
 2、 成功删除当前用户所有人脸库后，调用查询所有人脸库API接口，查看当前用户所有人脸库的状态信息，最终显示人脸库信息为空。   
 
 
 
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/03/PNG/01_create.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/03/PNG/01_create2.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/03/PNG/02_add.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/03/PNG/02_add2.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/03/PNG/03_search.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/03/PNG/03_search2.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/03/PNG/04_del.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/03/PNG/05_query.png)
