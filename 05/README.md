@@ -35,4 +35,26 @@ python image_tagging_batch.py a71ea8d3fd1f4134be1e4e64281f95cad1c85efa.jpg，得
 ![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/05/PNG/DAY05.jpg)
 
 
+## Q&A
+
+2点开始我来帮大家答疑，重复性问题较多，请大家先自行排查。
+
+#### 1.python2.6是否可以? 
+答：可以
+
+####  2.python3.x是否可以?
+答：原则上不建议，但代码小幅改动，也可以完成；
+
+####  3.打印出来的乱码问题如何解决?
+第70行修改为：
+print "%s\t%s" %(url, resp.decode("unicode_escape"))
+
+####  4.windows可以么? macOS可以么
+答：可以
+
+####  5.必须有git?
+答：不必要，可以直接download代码
+
+
+
 
