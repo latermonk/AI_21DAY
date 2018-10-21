@@ -8,6 +8,14 @@
 
 # DAY5：图像识别介绍和应用
 
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/05/PNG/swim-party.jpg)
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/05/PNG/swim-party-anlyse.jpg)
+
 课程资料下载：
 https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self-paced/about
 
