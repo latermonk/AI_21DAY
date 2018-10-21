@@ -32,3 +32,5 @@ python image_tagging_batch.py a71ea8d3fd1f4134be1e4e64281f95cad1c85efa.jpg，得
 
 ![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/05/PNG/DAY05.jpg)
 
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/05/PNG/DAY0502.jpg)
+
