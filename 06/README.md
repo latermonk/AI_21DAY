@@ -25,3 +25,12 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 在“实例管理”界面，点击“测试”，可通过“本地”方式进行搜索，即可搜索出实例中与该图片类似的图片数量、索引等信息；
 
 备注：其中count为本实例中与1.1.jpg类似的图片总量，path为相似图片的索引（该索引与添加图片时的path一致，不作为路径查询），sim值为0或1，表示相似度,1为相似，此处sim=0不展示，tags为该图片添加时的tag值（本次任务中添加图片，未给出tag，所以查询结果为空）
+
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/06/PNG/DAY0601.jpg)
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/06/PNG/DAY0602.jpg)
