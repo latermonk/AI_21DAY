@@ -41,6 +41,20 @@ https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&
 
 ![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/07/PNG/03.jpg)
 
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/07/PNG/04.jpg)
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/07/PNG/05.jpg)
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/07/PNG/06.jpg)
+
+
+
 
 ### 增值税发票查验平台
 
