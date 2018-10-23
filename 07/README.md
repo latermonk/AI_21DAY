@@ -24,3 +24,8 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 
 ### 3.3 OCR文字识别服务Demo体验版介绍
 为了能够方便使用者能够快速体验各服务的性能，我们提供了一个网页版的Demo服务，启动服务后可以快速体验文字识别OCR服务的识别结果：
+
+
+### 图片来源
+https://image.baidu.com/search/down?tn=download&word=download&ie=utf8&fr=detail&url=https%3A%2F%2Ftimgsa.baidu.com%2Ftimg%3Fimage%26quality%3D80%26size%3Db9999_10000%26sec%3D1540270896401%26di%3D2e81ff359fb500f25930c8c788b29228%26imgtype%3D0%26src%3Dhttp%253A%252F%252F5b0988e595225.cdn.sohucs.com%252Fimages%252F20180402%252Fff34a5ca57bd4354a3ae46a49b86693b.jpeg&thumburl=https%3A%2F%2Fss0.bdstatic.com%2F70cFvHSh_Q1YnxGkpoWK1HF6hhy%2Fit%2Fu%3D183664205%2C3896988889%26fm%3D26%26gp%3D0.jpg
+
