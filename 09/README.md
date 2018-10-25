@@ -27,3 +27,7 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 ==
 
 ![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/09/PNG/DAY03.jpg)
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/09/PNG/DAY04.jpg)
