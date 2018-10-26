@@ -12,6 +12,12 @@
 https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self-paced/courseware/354dfb4c8dd94ad1814b34028d7f4758/2bb1e3abf5a14a54a6989e4073b25455/  
 
 
+
+
+### 文档更正处：
+请注意，URL使用https://console.huaweicloud.com/iva
+
+
 ### 打卡任务：
 把“自己名字_服务名字”格式命名的作业运行成功的截图用来打卡。   
 
