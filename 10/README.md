@@ -23,3 +23,15 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 
 #### 注意事项：   
 今日课程包含样例视频，播放时请大家使用以下播放器：QQ播放器、potplayer、完美解码。浏览器自带的播放器可能会播放失败。
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/10/PNG/DAY1001.jpg)
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/10/PNG/DAY1002.jpg)
+
+==
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/10/PNG/DAY1003.jpg)
