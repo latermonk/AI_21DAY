@@ -3,6 +3,10 @@
 
 ##  地址：
 
+https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self-paced/about
+
+
+
 https://activity.huaweicloud.com/21days_ai/index.html?utm_source=yunshequ&utm_medium=banner
 
 
