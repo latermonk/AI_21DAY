@@ -11,10 +11,9 @@ https://activity.huaweicloud.com/21days_ai/index.html?utm_source=yunshequ&utm_me
 
 
 
+[DAY12  图引擎的使用](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/12/README.md)
 
-##  课程概念：
-
-![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/img/Content.png)
+----
 
 
 
