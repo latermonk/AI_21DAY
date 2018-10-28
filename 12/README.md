@@ -18,5 +18,34 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 ------
 
 
+#  心得体会
+
+DAY12 华为云的图引擎
+
+使用的四个步骤
+
+创建元数据
+准备点边数据文件
+创建图
+访问图
+
+其实就是创建图和访问图，创建图的时候 需要提前放到obs中一些数据，一个是元数据 另外一个是点数据 或者边数据。
+
+元数据和边点数据都有了的话就创建图
+
+图创建好之后就可以玩一些图的功能和算法了。
+
+上边的一行是输入命令
+
+左边的一行是算法调优
+
+简单。
+
+----
+
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/12/PNG/DAY1201.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/12/PNG/DAY1202.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/12/PNG/DAY1203.jpg)
 
 
