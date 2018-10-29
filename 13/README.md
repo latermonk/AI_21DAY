@@ -11,8 +11,9 @@
 https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self-paced/courseware/354dfb4c8dd94ad1814b34028d7f4758/2bb1e3abf5a14a54a6989e4073b25455/
 
 ## 打卡任务：
-按照上一章所讲内容，在图引擎服务上创建图，并进行电影推荐相关实践操作。
-1.运行GES提供的“实时推荐”算法
+按照上一章所讲内容，在图引擎服务上创建图，并进行电影推荐相关实践操作。   
+
+1.运行GES提供的“实时推荐”算法   
 2.图上查询以及更新图
 
 _
