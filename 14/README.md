@@ -23,3 +23,15 @@ predict工作流运行成功后进行截图：
 16.00-18.00 3群进行   
 19.00-21.00 4群进行   
 不在时间范围内的群也可以进行操作，如果碰到提示"资源不足"，请延后学习。   
+
+----
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1400.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1401.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1402.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1403.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1404.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1405.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1406.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1407.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1408.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/14/PNG/DAY1409.jpg)
