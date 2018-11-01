@@ -5,6 +5,7 @@
 本轮代金券共计1500元，用于本次课程学习资源的购买，限制使用产品和时间，请大家不要购买其他产品，并仔细依照每天操作文档指导操作，如因您误操作造成的代金券不足，我们将无法补发，还请大家切记！切记！
  
 ------------------
+
 # Day 15 初识深度学习
 
 课程资料下载：   
@@ -16,4 +17,6 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 截图反馈训练完成的截图，需包含用户名。 
 
 
-
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/15/PNG/DAY1501.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/15/PNG/DAY1502.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/15/PNG/DAY1503.jpg)
