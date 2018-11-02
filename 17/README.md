@@ -17,3 +17,9 @@
 通过自动学习功能，完成一个图像分类模型的训练过程。
 
 分别在“数据标注”和“模型训练”两个界面截图，请注意包含红框中的内容。
+
+----
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/17/PNG/DAY1701.png)
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/17/PNG/DAY1702.png)
