@@ -19,4 +19,5 @@ https://obs.cn-north-1.myhwclouds.com/dls-public-common-data/hc2018/data/hands-o
 
 ![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/18/PNG/DAY1801.jpg)
 ![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/18/PNG/DAY1802.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/18/PNG/DAY1803.jpg)
 
