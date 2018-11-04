@@ -12,3 +12,10 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 打卡任务：   
 熟悉ModelArts各部分功能，在ModelArts动手实践：创建Notebook—执行数据转换，创建训练作业—训练完成，创建训练作业（预测）—预测完成—删除你训练作业。  
 截图反馈训练完成截图，需包含用户名。
+
+----
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/19/PNG/DAY1901.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/19/PNG/DAY1902.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/19/PNG/DAY1903.jpg)
+
+
