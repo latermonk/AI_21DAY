@@ -6,6 +6,10 @@
 [DAY13  使用图引擎做电影推荐系统](https://github.com/latermonk/AI_21DAY/blob/master/13/README.md)   
 [DAY14  使用机器学习做销售预测](https://github.com/latermonk/AI_21DAY/blob/master/14/README.md)     
 [DAY17 自动学习进行花卉的分类](https://github.com/latermonk/AI_21DAY/blob/master/17/README.md)
+
+[DAY19 华为云ModelArts的使用流程](https://github.com/latermonk/AI_21DAY/blob/master/17/README.md)
+
+
 ----
 
 
