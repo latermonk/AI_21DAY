@@ -1,0 +1,186 @@
+{
+	"info": {
+		"_postman_id": "cd7577bd-5d21-4366-8f66-8ab8edf2b266",
+		"name": "对话机器人Postman脚本\b",
+		"description": "按顺序调用对话机器人API，实现机器人自动回答问题。",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "1.获取云端访问令牌Token",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "b4be0e62-360d-4dea-af60-15162c363222",
+						"exec": [
+							"//从response里抽取token，并保存为变量usertoken中，后续API自动使用{{usertoken}}的值",
+							"var usertoken = postman.getResponseHeader(\"x-subject-token\"); ",
+							"postman.setGlobalVariable(\"usertoken\", usertoken);",
+							"//打开Postman Console界面可查看console log输出",
+							"console.log(\"x-subject-token=\" + postman.getGlobalVariable(\"usertoken\")); // global var"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json;charset=utf8"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"auth\": {\r\n    \"identity\": {\r\n      \"methods\": [\"password\"],\r\n      \"password\": {\r\n        \"user\": {\r\n          \"name\": \"{{myusername}}\",\r\n          \"password\": \"{{mypassword}}\",\r\n          \"domain\": {\r\n            \"name\": \"{{mydomain}}\"\r\n          }\r\n        }\r\n      }\r\n    },\r\n    \"scope\": {\r\n      \"project\": {\r\n        \"name\": \"cn-north-1\"\r\n      }\r\n    }\r\n  }\r\n}"
+				},
+				"url": {
+					"raw": "https://iam.cn-north-1.myhuaweicloud.com/v3/auth/tokens",
+					"protocol": "https",
+					"host": [
+						"iam",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v3",
+						"auth",
+						"tokens"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "2.机器人自动回答问题",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "X-Auth-Token",
+						"value": "{{usertoken}}"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r  \"user_id\":\"u001\",\r  \"session_id\":\"s001\", \r  \"operate_type\":0, \r  \"question\":\"outlook日历通知可以发送多少收件人？\",\r  \"extends\":{\r    \"top\": 3\r  }\r}"
+				},
+				"url": {
+					"raw": "https://cbs.cn-north-1.myhuaweicloud.com/v1/41551a23c2be484cb0070631e323ee52/qabots/d565ef22-5c8c-4679-b7ce-0622da54e645/requests",
+					"protocol": "https",
+					"host": [
+						"cbs",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v1",
+						"41551a23c2be484cb0070631e323ee52",
+						"qabots",
+						"d565ef22-5c8c-4679-b7ce-0622da54e645",
+						"requests"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "3.(可选) 查看Bot统计信息session_stats",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "X-Auth-Token",
+						"value": "{{usertoken}}"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://cbs.cn-north-1.myhuaweicloud.com/v1/41551a23c2be484cb0070631e323ee52/qabots/d565ef22-5c8c-4679-b7ce-0622da54e645/requests/session_stats?interval=day",
+					"protocol": "https",
+					"host": [
+						"cbs",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v1",
+						"41551a23c2be484cb0070631e323ee52",
+						"qabots",
+						"d565ef22-5c8c-4679-b7ce-0622da54e645",
+						"requests",
+						"session_stats"
+					],
+					"query": [
+						{
+							"key": "interval",
+							"value": "day"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "4.(可选) 查看Bot统计信息reply_rates",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "X-Auth-Token",
+						"value": "{{usertoken}}"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://cbs.cn-north-1.myhuaweicloud.com/v1/41551a23c2be484cb0070631e323ee52/qabots/d565ef22-5c8c-4679-b7ce-0622da54e645/requests/reply_rates?interval=day",
+					"protocol": "https",
+					"host": [
+						"cbs",
+						"cn-north-1",
+						"myhuaweicloud",
+						"com"
+					],
+					"path": [
+						"v1",
+						"41551a23c2be484cb0070631e323ee52",
+						"qabots",
+						"d565ef22-5c8c-4679-b7ce-0622da54e645",
+						"requests",
+						"reply_rates"
+					],
+					"query": [
+						{
+							"key": "interval",
+							"value": "day"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
