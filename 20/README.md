@@ -18,3 +18,9 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 
 由于这个问题超出去机器人知识范围，因此机器人无法作答。那么这个问题就会出现在“运营信息”→“未解决问题”页面中。
 
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/20/PNG/DAY2001.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/20/PNG/DAY2002.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/20/PNG/DAY2003.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/20/PNG/DAY2004.jpg)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/20/PNG/DAY2005.jpg)
