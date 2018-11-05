@@ -17,3 +17,4 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE011+Self
 ### 1.查看Demo机器人的运行信息，打开未解决问题，找到在《2.4调用问答机器人》环节中，你提给机器人的最后一个问题“｛｛myusername｝｝今天吃饭了吗？”并截图。
 
 由于这个问题超出去机器人知识范围，因此机器人无法作答。那么这个问题就会出现在“运营信息”→“未解决问题”页面中。
+
