@@ -29,3 +29,13 @@
 ## 打卡任务：
 
 体验“保险回访机器人”时，请回答最后一个问题“请问您对我们的服务还有什么建议吗”时，提供一个包含您的电话号码（您注册本课程时的电话号码）的回答并截图。
+
+
+
+-----
+
+
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/21/PNG/DAY2101.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/21/PNG/DAY2102.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/21/PNG/DAY2103.png)
+![](https://raw.githubusercontent.com/latermonk/AI_21DAY/master/21/PNG/DAY2104.png)
